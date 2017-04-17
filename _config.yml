@@ -23,7 +23,7 @@ collections:
     output: true
     permalink: /resume/:path/
     
-    resume:
+    portfolio:
     output: true
     permalink: /portfolio/:path/
 
