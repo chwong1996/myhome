@@ -11,7 +11,7 @@ github_username:  github_username
 # Build settings
 markdown: 
 
-highlighter: vogue
+highlighter: rogue
 
 # Pagination
 paginate: 15
