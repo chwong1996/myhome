@@ -19,7 +19,7 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-    resume: personal/resume.md
+    resume: 
     output: true
     permalink: /resume/:path/
     
