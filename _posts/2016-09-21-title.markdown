@@ -2,7 +2,7 @@
 layout: post
 title: Wake Up Call from the reality
 date: 2016-09-21 15:09:00
-description: an example of a blog post with some code
+description: The time when you are not sleeping anymore
 ---
 Summer internship is definitely the wake-up call you need to realise you are just two years away from going into the very, very brutal society. IF you ever have the chance to do it please do, in just 8 weeks you will go from a binge drinking club animal to a very polite and sensible human being, given you are not mocking about and messing around in the office but doing actual work with other people.
 
