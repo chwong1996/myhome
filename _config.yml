@@ -17,8 +17,8 @@ paginate: 15
 paginate_path: "/blog/page:num/"
 
 
-collections:
-    portfolio:
-    output: false
-    permalink: /portfolio/:path/
+//collections:
+    //portfolio:
+    //output: false
+    //permalink: /portfolio/:path/
 
