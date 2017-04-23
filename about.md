@@ -26,9 +26,8 @@ My friends define who I am, and luckily I have been influenced by very motivated
 <span class="contacticon center">
 	<a href="mailto:chwong1996@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/chwong1996" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="https://www.linkedin.com/in/chinhanghenryvong/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="http://henryfromhongkong.com" target="_blank"><i class="fa fa-wordpress" aria-hidden="true"></i></a>
 </span>
 
 <div class="col three caption">
