@@ -3,6 +3,7 @@ layout: page
 title: ABOUT
 permalink: /about/
 ---
+ <img class="col one right" src="/img/myself.jpg">
 
 <br/>
 <h1>About this website... first</h1>
