@@ -24,5 +24,5 @@ collections:
     
     portfolio:
     output: true
-    permalink: "/portfolio/"
+    permalink: /portfolio/:path/
 
