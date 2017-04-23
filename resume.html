@@ -31,9 +31,23 @@
 
 <body>
 <header class="site-header">
+<div class="wrapper">
+.wrapper {
+    max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
+    max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $horizontal-spacing-unit;
+    padding-left: $horizontal-spacing-unit;
+    @extend %clearfix;
 
-  <div class="wrapper">
-
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit}));
+        max-width:         calc(800px - (#{$horizontal-spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
     <nav class="site-nav">
 
       <div class="trigger">
