@@ -1,13 +1,16 @@
 ---
 layout: post
 title: Project
-description: a project with a background image
-img: /img/12.jpg
+description: Automatic curtain opener
+img: /img/automatic curtain opener
 ---
+Ever not able to wake up for 12pm lecture? Ever want to wake up to a good morning with music and sun?
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Coupled with the automatic Spotify Python script, the idea is when the alarm goes off, sun shines into the window and music plays to wake you up. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+Entire model held by nothing but sellotape and blu-tack, made with household materials and an arduino. This is the crudest yet the most effective machine to wake you up!
+
+Guarenteened to wake you up for the first two days, effect enhances when the postman looks inside the window and see your lazy ass sleeping.
 
 	---
 	layout: post
