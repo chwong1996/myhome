@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
@@ -30,42 +34,6 @@
 </head>
 
 <body>
-<header class="site-header">
-<div class="wrapper">
-.wrapper {
-    max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
-    max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $horizontal-spacing-unit;
-    padding-left: $horizontal-spacing-unit;
-    @extend %clearfix;
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit}));
-        max-width:         calc(800px - (#{$horizontal-spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
-}
-    <nav class="site-nav">
-
-      <div class="trigger">
-        <!-- {{ site.title }} instead of blog -->
-        <a class="page-link" href="{{ site.baseurl }}/">blog</a>
-        <a class="page-link" href="{{ site.baseurl }}/">about</a>
-        <a class="page-link" href="https://chwong1996.github.io/personal/resume.html">resume</a>
-        <a class="page-link" href="{{ site.baseurl }}/">portfolio</a>
-        
-
-
-      </div>
-    </nav>
-
-  </div>
-
-</header>
-
     <div id="page-wrap">
     
         <img src="images/cthulu.png" alt="Photo of Cthulu" id="pic" />
