@@ -32,6 +32,6 @@ My friends define who I am, and luckily I have been influenced by very motivated
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	Feel free to reach me!
 </div>
 
