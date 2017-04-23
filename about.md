@@ -31,6 +31,6 @@ My friends define who I am, and luckily I have been influenced by very motivated
 </span>
 
 <div class="col three caption">
-	Feel free to reach me!
+	You can always find out more about me on Facebook and Wordpress by clicking the icons above!
 </div>
 
