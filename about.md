@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: ABOUT THIS WEBSITE
 permalink: /about/
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-I 
+Right... so I first learnt how to build a website when I was 13 and I have never thought about touching anything that's related to programming again. Unluckily my housemate, 
 
 Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
 
