@@ -21,7 +21,7 @@ paginate_path: "/blog/page:num/"
 collections:
     resume: 
     output: true
-    permalink: /resume.html
+    permalink: /resume.html/
     
     portfolio:
     output: true
