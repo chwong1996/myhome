@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: Automatic curtain opener
+title: Automatic curtain opener
+description: Good way to wake yourself up
 img: /img/automatic curtain opener.jpg
 ---
 Ever not able to wake up for 12pm lecture? Ever want to wake up to a good morning with music and sun?
