@@ -2,7 +2,7 @@
 layout: post
 title: Project
 description: Automatic curtain opener
-img: /img/automatic curtain opener
+img: /img/automatic curtain opener.jpg
 ---
 Ever not able to wake up for 12pm lecture? Ever want to wake up to a good morning with music and sun?
 
