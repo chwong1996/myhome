@@ -29,7 +29,7 @@ permalink: /portfolio/
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ portfolio.url }}">
         {% if project.img %}
-        <img class="thumbnail" src="{{ portfoliko.img }}"/>
+        <img class="thumbnail" src="{{ portfolio.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
