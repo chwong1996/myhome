@@ -6,7 +6,7 @@ img: /img/curtain opener.jpg
 ---
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/curtain 1.jpg" alt="" title="curtain opener"/>
-	<img class="col one" src="{{ site.baseurl }}/img/motor.jpg" alt="" title='curtain opener"/>
+	<img class="col one" src="{{ site.baseurl }}/img/motor.jpg" alt="" title="curtain opener"/>
 	<img class="col one" src="{{ site.baseurl }}/img/curtain 3.jpg" alt="" title="curtain opener"/>
 </div>
 
