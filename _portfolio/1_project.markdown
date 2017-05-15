@@ -9,6 +9,7 @@ img: /img/curtain opener.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/curtain 2.jpg" alt="" title='curtain opener"/>
 	<img class="col one" src="{{ site.baseurl }}/img/curtain 3.jpg" alt="" title="curtain opener"/>
 </div>
+
 Ever not able to wake up for 12pm lecture? Ever want to wake up to a good morning with music and sun?
 
 Coupled with the automatic Spotify Python script, the idea is when the alarm goes off, sun shines into the window and music plays to wake you up. 
