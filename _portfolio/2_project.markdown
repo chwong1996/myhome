@@ -2,8 +2,17 @@
 layout: post
 title: Project
 description: a project with a background image
-img: /img/2.jpg
+img: /img/Robotic arm.jpg
 ---
+Technology is critical for innovation, and innovation is how people, or even the whole human mankind moves forward.  
+
+So after making the automatic curtain opener, what can I do to make something for myself?
+
+A robotic arm. Ta-DA! Fully customizable! The best thing about the robotic arm, with the Arduino is that I can make it do whatever I want, whenever I want!
+
+	<a href ="
+
+
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
