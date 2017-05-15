@@ -5,9 +5,9 @@ description: Good way to wake yourself up
 img: /img/curtain opener.jpg
 ---
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/curtain 1.jpg" alt="" title="curtain opener"/>
-	<img class="col one" src="{{ site.baseurl }}/curtain 2.jpg" alt="" title='curtain opener"/>
-	<img class="col one" src="{{ site.baseurl }}/curtain 3.jpg" alt="" title="curtain opener"/>
+	<img class="col one" src="{{ site.baseurl }}/img/curtain 1.jpg" alt="" title="curtain opener"/>
+	<img class="col one" src="{{ site.baseurl }}/img/curtain 2.jpg" alt="" title='curtain opener"/>
+	<img class="col one" src="{{ site.baseurl }}/img/curtain 3.jpg" alt="" title="curtain opener"/>
 </div>
 Ever not able to wake up for 12pm lecture? Ever want to wake up to a good morning with music and sun?
 
