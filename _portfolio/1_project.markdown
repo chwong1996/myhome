@@ -2,7 +2,7 @@
 layout: post
 title: Automatic curtain opener
 description: Good way to wake yourself up
-img: /img/automatic curtain opener.jpg
+img: /img/curtain opener.jpg
 ---
 Ever not able to wake up for 12pm lecture? Ever want to wake up to a good morning with music and sun?
 
