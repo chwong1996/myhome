@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PORTFOLIO
+title: portfolio
 permalink: /portfolio/
 ---
 
@@ -9,9 +9,9 @@ permalink: /portfolio/
 {% if project.redirect %}
 <div class="project">
     <div class="thumbnail">
-        <a href="{{ portfolio.redirect }}" target="_blank">
+        <a href="{{ project.redirect }}" target="_blank">
         {% if project.img %}
-        <img class="thumbnail" src="{{ portfolio.img }}"/>
+        <img class="thumbnail" src="{{ project.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
@@ -27,9 +27,9 @@ permalink: /portfolio/
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ portfolio.url }}">
+        <a href="{{ site.baseurl }}{{ project.url }}">
         {% if project.img %}
-        <img class="thumbnail" src="{{ portfolio.img }}"/>
+        <img class="thumbnail" src="{{ project.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
