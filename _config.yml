@@ -19,4 +19,4 @@ collections:
     permalink: /portfolio/:path/
   blogs:
     output: true
-    permalink: /blog/:path/
+    permalink: /posts/:path/
