@@ -13,11 +13,10 @@ markdown:
 highlighter: rouge
 
 # Pagination
-paginate: 15
-paginate_path: "/blog/page:num/"
-
-
 collections:
-    portfolio:
+  portfolio:
     output: true
     permalink: /portfolio/:path/
+  poetry:
+    output: false
+    permalink: /poetry/:path/
