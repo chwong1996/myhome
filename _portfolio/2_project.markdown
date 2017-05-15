@@ -9,9 +9,10 @@ Technology is critical for innovation, and innovation is how people, or even the
 So after making the automatic curtain opener, what can I do to make something for myself?
 
 A robotic arm. Ta-DA! Fully customizable! The best thing about the robotic arm, with the Arduino is that I can make it do whatever I want, whenever I want!
-
-	<a href ="
-
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/Robotic arm.jpg" alt="" title="Robotic arm"/>
+</div>	
+This robot runs on Arduino and takes my programming skills to the next level. I bought the robotic arm kit with 
 
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
