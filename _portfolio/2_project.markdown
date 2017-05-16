@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A robotic arm
+title: The Robotic Arm
 description: And I built a thing
 img: /img/Robotic arm.jpg
 ---
@@ -21,3 +21,14 @@ There has been success and failures, including short circuiting the board and en
 <div class="col three caption">
 	Showing the robotic claw doing its madness with Adib screaming with excitement behind
 </div>
+So after that, it is all just about wiring everything up together. It was a mess, like truly
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/arm1.jpg" alt="" title="Robotic arm"/>
+	<img class="col two" src="{{ site.baseurl }}/img/arm2.jpg" alt="" title="Robotic arm"/>
+</div>
+<div class="col two caption">
+	If this were a construction site the health and safety people would probably have put me in a frying pan
+</div>
+But after everything is done, all is needed is a good control console!
+
+But, come-on! 
