@@ -26,11 +26,12 @@ There has been success and failures, including short circuiting the board and en
 So after that, it is all just about wiring everything up together. It was a mess, like truly
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/arm1.jpg" alt="" title="Robotic arm"/>
-	<img class="col one" src="{{ site.baseurl }}/img/arm2.jpg" alt="" title="Robotic arm"/>
+	<img class="col three" src="{{ site.baseurl }}/img/arm1.jpg" alt="" title="Robotic arm"/>
+	<img class="col three" src="{{ site.baseurl }}/img/arm2.jpg" alt="" title="Robotic arm"/>
+	<img class="col three" src="{{ site.baseurl }}/img/arm3.jpg" alt="" title="Robotic arm"/>
 </div>
 <div class="col three caption">
-	If this were a construction site the health and safety people would probably have put me in a frying pan
+	IStep-by-step constuction of the robotic arm
 </div>
 But after everything is done, all is needed is a good control console!
 
