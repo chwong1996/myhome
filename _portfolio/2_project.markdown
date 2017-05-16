@@ -9,8 +9,9 @@ Technology is critical for innovation, and innovation is how people, or even the
 So after making the automatic curtain opener, what can I do to make something for myself?
 
 A robotic arm. Ta-DA! Fully customizable! The best thing about the robotic arm, with the Arduino is that I can make it do whatever I want, whenever I want!
+
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/Robotic arm.jpg" alt="" title="Robotic arm"/>
+	<img class="col" src="{{ site.baseurl }}/img/Robotic arm.jpg" alt="" title="Robotic arm"/>
 </div>	
 This robot runs on Arduino and takes my programming skills to the next level. I bought the robotic arm kit frame which does not even include the servo motors. However, this proved to be a more challenging design and gives me a better satisfaction!
 
@@ -22,6 +23,7 @@ There has been success and failures, including short circuiting the board and en
 	Showing the robotic claw doing its madness with Adib screaming with excitement behind
 </div>
 So after that, it is all just about wiring everything up together. It was a mess, like truly
+
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/arm1.jpg" alt="" title="Robotic arm"/>
 	<img class="col two" src="{{ site.baseurl }}/img/arm2.jpg" alt="" title="Robotic arm"/>
