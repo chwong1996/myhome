@@ -5,7 +5,7 @@
 .site-header {
 border-bottom: 1px solid $grey-color-light;
 background-color: #fff;
-opacity: 0.90;
+opacity: 0.75;
 position:fixed;
 left:0px;
 top:0px;
@@ -15,7 +15,7 @@ z-index: 50;
 }
 
 .site-title {
-font-size: 16px;
+font-size: 20px;
 line-height: $nav-height;
 letter-spacing: -1px;
 margin-bottom: 0;
