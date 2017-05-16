@@ -35,4 +35,4 @@ So after that, it is all just about wiring everything up together. It was a mess
 </div>
 But after everything is done, all is needed is a good control console!
 
-But, come-on! 
+I am going to be honest with you: I didn't really spend a lot of time into thinking what to add for the control console. 
