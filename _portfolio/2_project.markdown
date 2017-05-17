@@ -39,12 +39,9 @@ The control console is the main stuff, I spent literally 20 mins, including walk
 This entire thing is cut out from 6mm MDF cardboard and drilled some 10mm holes in it. The potentiometers thus stick out from the board and held in place. How much it costed me to do this? NUTTIN' MATE, not even a penny.
 
 So here it goes! My Robotic Arm!
-
-
-
-
+<div class="img_row">
 <h2>Future developments: tasks to do</h2>
-<br>
 <li>Makes me coffee without creating a mess</li>
 <li>Folds the clothes</li>
 <li>Signs for me</li>
+</div>
