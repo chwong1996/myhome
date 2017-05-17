@@ -40,7 +40,11 @@ This entire thing is cut out from 6mm MDF cardboard and drilled some 10mm holes 
 
 So here it goes! My Robotic Arm!
 
+
+
+
 <h2>Future developments: tasks to do</h2>
+<br>
 <li>Makes me coffee without creating a mess</li>
 <li>Folds the clothes</li>
 <li>Signs for me</li>
