@@ -18,7 +18,7 @@ So after coding the Arduino, I have to learn how to connect everything through t
 
 There has been success and failures, including short circuiting the board and ended up burning the entire setup and ended up buying more servos, but the moment when the circuit works and the servos are responding? IT WAS AMAZING!
 <div class="img row">
-<iframe width="650" height="315" src="https://www.youtube.com/embed/MU18B2-_OsE" frameborder="0" allowfullscreen></iframe>
+<iframe width="550" height="315" src="https://www.youtube.com/embed/MU18B2-_OsE" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="col three caption">
 	Showing the robotic claw doing its madness with Adib screaming with excitement behind
@@ -31,8 +31,17 @@ So after that, it is all just about wiring everything up together. It was a mess
 	<img class="col one" src="{{ site.baseurl }}/img/arm3.jpg" alt="" title="Robotic arm"/>
 </div>
 <div class="col three caption">
-	IStep-by-step constuction of the robotic arm
+	Step-by-step constuction of the robotic arm
 </div>
 But after everything is done, all is needed is a good control console!
 
 I am going to be honest with you: I didn't really spend a lot of time into thinking what to add for the control console. 
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/mdf control.jpg" alt="" title="The Control Console"/>
+</div>
+<div class="col three caption">
+	I sent this picture to my girlfriend and I didn't happen to think I might be doing a blog soon so apologies for the quality
+</div>
+This entire thing is cut out from 6mm MDF cardboard and drilled some 10mm holes in it. The potentiometers thus stick out from the board and held in place. How much it costed me to do this? NUTTIN' MATE, not even a penny.
+
+So here it goes! My robotic Arm!
