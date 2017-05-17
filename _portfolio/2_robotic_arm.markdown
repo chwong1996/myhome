@@ -18,7 +18,7 @@ So after coding the Arduino, I have to learn how to connect everything through t
 
 There has been success and failures, including short circuiting the board and ended up burning the entire setup and ended up buying more servos, but the moment when the circuit works and the servos are responding? IT WAS AMAZING!
 <div class="img row">
-<div class="centered-thing">
+<div class="your-centered-div">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/MU18B2-_OsE" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="col three caption">
