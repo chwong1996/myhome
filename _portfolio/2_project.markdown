@@ -33,15 +33,10 @@ So after that, it is all just about wiring everything up together. It was a mess
 <div class="col three caption">
 	Step-by-step constuction of the robotic arm
 </div>
-But after everything is done, all is needed is a good control console!
+The control console is the main stuff, I spent literally 20 mins, including walking to the Design Studio in the University of Southampton, saw through the 6mm MDF board and drilled through the wood with a drill
+	<img src="{{ site.baseurl }}/img/mdf control.jpg" style="float:right;width:300px;height:300px;" alt="" title="The control ">
 
-I am going to be honest with you: I didn't really spend a lot of time into thinking what to add for the control console. 
-<div class="img_row">
-	<img src="{{ site.baseurl }}/img/mdf control.jpg" style="width:300px;height:300px;" alt="" title="The control ">
-</div>
-<div class="col three caption">
-	I sent this picture to my girlfriend and I didn't happen to think I might be doing a blog soon so apologies for the quality
-</div>
+
 This entire thing is cut out from 6mm MDF cardboard and drilled some 10mm holes in it. The potentiometers thus stick out from the board and held in place. How much it costed me to do this? NUTTIN' MATE, not even a penny.
 
 So here it goes! My robotic Arm!
