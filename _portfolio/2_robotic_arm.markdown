@@ -1,14 +1,14 @@
 ---
 layout: post
 title: The Robotic Arm
-description: And I built a thing
+description: Or shall I call it Armduino?
 img: /img/Robotic arm.jpg
 ---
 Technology is critical for innovation, and innovation is how people, or even the whole human mankind moves forward.  
 
 So after making the automatic curtain opener, what can I do to make something for myself?
 
-A robotic arm. Ta-DA! Fully customizable! The best thing about the robotic arm, with the Arduino is that I can make it do whatever I want, whenever I want!
+A robotic arm. Ta-DA! Fully customizable! The best thing about the robotic arm, with the Arduino is that I can make it do whatever I want, whenever I want! It is like having a dog, but who wants a dog when you can have a robotic arm?
 <div class="img row">
 <img src="{{ site.baseurl }}/img/Robotic arm.jpg" style="float:right;width:200px;height:200px;" alt="" title="Robotic arm">
 </div>
