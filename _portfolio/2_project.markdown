@@ -10,7 +10,7 @@ So after making the automatic curtain opener, what can I do to make something fo
 
 A robotic arm. Ta-DA! Fully customizable! The best thing about the robotic arm, with the Arduino is that I can make it do whatever I want, whenever I want!
 <div class="img row">
-<img src="{{ site.baseurl }}/img/Robotic arm.jpg" style="float:right;width:300px;height:300px;" alt="" title="Robotic arm">
+<img src="{{ site.baseurl }}/img/Robotic arm.jpg" style="float:right;width:200px;height:200px;" alt="" title="Robotic arm">
 </div>
 This robot runs on Arduino and takes my programming skills to the next level. I bought the robotic arm kit frame which does not even include the servo motors. However, this proved to be a more challenging design and gives me a better satisfaction!
 
@@ -34,9 +34,13 @@ So after that, it is all just about wiring everything up together. It was a mess
 	Step-by-step constuction of the robotic arm
 </div>
 The control console is the main stuff, I spent literally 20 mins, including walking to the Design Studio in the University of Southampton, saw through the 6mm MDF board and drilled through the wood with a drill
-	<img src="{{ site.baseurl }}/img/mdf control.jpg" style="float:right;width:300px;height:300px;" alt="" title="The control ">
-
+	<img src="{{ site.baseurl }}/img/mdf control.jpg" style="float:right;width:200px;height:200px;" alt="" title="The control ">
 
 This entire thing is cut out from 6mm MDF cardboard and drilled some 10mm holes in it. The potentiometers thus stick out from the board and held in place. How much it costed me to do this? NUTTIN' MATE, not even a penny.
 
-So here it goes! My robotic Arm!
+So here it goes! My Robotic Arm!
+
+<h2>Future developments: tasks to do</h2>
+<li>Makes me coffee without creating a mess</li>
+<li>Folds the clothes</li>
+<li>Signs for me</li>
