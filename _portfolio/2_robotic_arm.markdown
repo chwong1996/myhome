@@ -43,5 +43,5 @@ So here it goes! My Robotic Arm!
 <h3>Future developments: tasks to do</h3>
 <li>Makes me coffee without creating a mess</li>
 <li>Folds the clothes</li>
-<li>Signs for me</li>
+<li>Signs for me, so I would feel like the President of the United States</li>
 </div>
