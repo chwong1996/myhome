@@ -37,7 +37,7 @@ But after everything is done, all is needed is a good control console!
 
 I am going to be honest with you: I didn't really spend a lot of time into thinking what to add for the control console. 
 <div class="img_row">
-	<img src="{{ site.baseurl }}/img/mdf control.jpg" alt="" title="The control ">
+	<img src="{{ site.baseurl }}/img/mdf control.jpg" style="width:300px;height:300px;" alt="" title="The control ">
 </div>
 <div class="col three caption">
 	I sent this picture to my girlfriend and I didn't happen to think I might be doing a blog soon so apologies for the quality
