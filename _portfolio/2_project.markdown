@@ -10,7 +10,7 @@ So after making the automatic curtain opener, what can I do to make something fo
 
 A robotic arm. Ta-DA! Fully customizable! The best thing about the robotic arm, with the Arduino is that I can make it do whatever I want, whenever I want!
 <div class="img row">
-<img src="{{ site.baseurl }}/img/Robotic arm.jpg" style="float:right;width:400px;height:400px;" alt="" title="Robotic arm">
+<img src="{{ site.baseurl }}/img/Robotic arm.jpg" style="float:right;width:300px;height:300px;" alt="" title="Robotic arm">
 </div>
 This robot runs on Arduino and takes my programming skills to the next level. I bought the robotic arm kit frame which does not even include the servo motors. However, this proved to be a more challenging design and gives me a better satisfaction!
 
@@ -37,7 +37,7 @@ But after everything is done, all is needed is a good control console!
 
 I am going to be honest with you: I didn't really spend a lot of time into thinking what to add for the control console. 
 <div class="img_row">
-	<img src="{{ site.baseurl }}/img/mdf control.jpg" style="width:300px;height:100%;" alt="" title="Robotic arm">
+	<img src="{{ site.baseurl }}/img/mdf control.jpg" style="float:right;width:300px;height:300px;" alt="" title="The control ">
 </div>
 <div class="col three caption">
 	I sent this picture to my girlfriend and I didn't happen to think I might be doing a blog soon so apologies for the quality
