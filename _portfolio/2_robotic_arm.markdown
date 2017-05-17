@@ -17,7 +17,9 @@ This robot runs on Arduino and takes my programming skills to the next level. I 
 So after coding the Arduino, I have to learn how to connect everything through the breadboard. Dispite having experience in building the Automatic Curtain Opener, this proved to be 10x more complex as it involves a lot more components, and I am so not used to messy wires.
 
 There has been success and failures, including short circuiting the board and ended up burning the entire setup and ended up buying more servos, but the moment when the circuit works and the servos are responding? IT WAS AMAZING!
+<div class="img_row">
 <iframe class="center-block" width="560" height="315" src="https://www.youtube.com/embed/MU18B2-_OsE" frameborder="0" allowfullscreen=""></iframe>
+</div>
 <div class="col three caption">
 	Showing the robotic claw doing its madness with Adib screaming with excitement behind
 </div>
