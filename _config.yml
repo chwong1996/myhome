@@ -1,7 +1,8 @@
 # Site settings
 title:My home
 email:chwong1996@gmail.com
-description:"A space to collect thoughts... from me"
+description:> # this means to ignore newlines until "baseurl:"
+"A space to collect thoughts... from me"
 github_username:"chwong1996"
 
 # Build settings
@@ -16,6 +17,6 @@ highlighter: rouge
 
 collections:
   portfolio:
-    output: true
+    output: false
     permalink: /portfolio/:path/
 
