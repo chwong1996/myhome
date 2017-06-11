@@ -17,6 +17,6 @@ highlighter: rouge
 
 collections:
   portfolio:
-    output: false
-    permalink: /portfolio/:path/
+    output: true
+    permalink: "/portfolio/:path/"
 
