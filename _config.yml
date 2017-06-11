@@ -2,12 +2,12 @@
 title:My home
 email:chwong1996@gmail.com
 description:"A space to collect thoughts... from me"
-baseurl:#none
-url:#none
+baseurl:
+url:
 github_username:"chwong1996"
 
 # Build settings
-markdown: kramdown
+markdown: 
 
 highlighter: rouge
 
