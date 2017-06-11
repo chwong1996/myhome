@@ -3,7 +3,6 @@ title:My home
 email:chwong1996@gmail.com
 description:> # this means to ignore newlines until "baseurl:"
 "A space to collect thoughts... from me"
-baseurl: /personal
 github_username:"chwong1996"
 
 # Build settings
@@ -13,11 +12,11 @@ highlighter: rouge
 
 #Pagination:
   paginate: 15
-  paginate_path: "/blog/page:num/"
+  paginate_path: /blog/page:num/
 
 
 collections:
   portfolio:
     output: true
-    permalink: "/portfolio/:path/"
+    permalink: /portfolio/:path/
 
