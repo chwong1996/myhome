@@ -18,14 +18,13 @@ I'm currently studying in the University of Southampton, doing my third year in 
 
 
 My friends define who I am, and luckily I have been influenced by very motivated friends who keep driving me forward and improving myself; so here I would like to express my gratitude to Tunde, Dubai, Ademola and Adib; without them I would never be the same. 
-
-
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
+    <a href="http://www.facebook.com/plastichenry" target="_blank"><i class="fa fa-facebook-square"></i></a>
 	<a href="mailto:chwong1996@gmail.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com/chwong1996" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://github.com/chwong1996" target="_blank"><i class="fa fa-github-square"></i></a>   
 	<a href="https://www.linkedin.com/in/chinhanghenryvong/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://henryfromhongkong.com" target="_blank"><i class="fa fa-wordpress" aria-hidden="true"></i></a>
 </span>
@@ -33,4 +32,3 @@ My friends define who I am, and luckily I have been influenced by very motivated
 <div class="col three caption">
 	You can always find out more about me on Facebook and Wordpress by clicking the icons above!
 </div>
-
