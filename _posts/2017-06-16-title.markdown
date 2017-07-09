@@ -6,14 +6,25 @@ description: Firm it man, why you being a coward for?
 ---
 
 I have got to credit my friend Ade for this. “Firm it” is almost his second favourite phrase, with “go gym fam” being his first. But when times get difficult he always pulls out that phrase, and as I have realized, the more you say it, the more you will actually start “firming it”.
+
 Malcolm Gladwell stated the 10,000 hours of “deliberate practice” are needed to become world-class at any field. So what is 10,000 hours? A whopping 416 days without sleeping. ONE FLIPPING YEAR! TO LEARN A SKILL? YOU MUST ME KIDDING ME! I’d rather live off my parents, stay home and start playing League all day long. Oh wait, I’ve been playing League for 4 years and I’m still utter crap at that, so erm, nah, I quit.
+
 But luckily, this guy called Josh Kaufman did a TED talk on The First 20 hours – How to Learn Anything. He said, by practicing for at least 20 hours for a set of skills, by firming those 20 hours of learning the set of skills, by firming the frustrations in those 20 hours you would have learnt the basics, you would have learnt how to self-correct, and if you can self-correct your mistakes, then you are on your way to master the set of skills.
+
 Examples? The robotic arm.
+
 I hate programming, I hate it when computers are being so complicated that you write an arbitrary amount of codes in English but does not really look like English and the logic behind it is so vague that it just hurts my head. But I have decided to overcome it, no way I spent so much money on buying a computer and it does nothing other than playing Battlefield and working on the flipping HEC-RAS. 
+
 So I went online, ordered the parts and start learning how to code the Arduino.  And there is another big problem: connecting the parts together.
+
 Wiring the servo motors and the potentiometer to the Arduino is more like solving the space mystery, cables tangle up and your eyes become so Chinese I can’t even look at anything anymore, and I have got to say: it is definitely worth it. 
+
 Looking at something that I have built by myself gives me more pride than anything, and honestly to have learnt something new makes you realise the number of possibilities in the world; especially in this day and age there will be nothing stopping you to learn anymore; the only thing that is stopping you is yourself. 
+
 And what I am doing now is learning how to program a website; from my personal website to participating in Openmusic, this is a drastic change coming from a man who hates programming deep to the bones. 
+
 I was going to talk about skydiving but as I have paid so much for that I think it deserves another blog post with another theme to talk about. And trust me I will be talking about skydiving a lot in the future: it is probably my biggest achievement to date. 
+
 Nothing is impossible as long as you say firm it and you firm it through. Perseverance has always been the key to everything. 
+
 As a wise man once says; the major barrier to skill acquisition isn’t intellectual, it’s emotional. 
