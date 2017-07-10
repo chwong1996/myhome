@@ -1,22 +1,54 @@
 ---
-layout: default
+layout: page
+title: My Yard
+permalink: /
 ---
 
-<div class="header-bar">
-  <h1>SO HERE WE ARE</h1>
-  <h2>A space to demonstrate myself</h2>
-  <br/>
-  <hr>
-  <br/>
+<!-- Slider Start -->
+<section id="slider">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-2">
+        <div class="block">
+          <h1 class="animated fadeInUp">CHIN HANG HENRY VONG</h1>
+          <p class="animated fadeInUp">Just another personal webpage, once again I think this looks better</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Wrapper Start -->
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+            <h2>About Me</h2>
+          </div>
+          <p>I'm currently studying in the University of Southampton, doing my third year in civil engineering. I'm an adventurous human being who loves to explore and I love to challenge myself. I like to find my weaknesses and try to overcome them; that is part of the reason why I took up American Football, one of the most violent contact sports in the world; and the major reason for me to pick up programming again. 
+
+
+
+My friends define who I am, and luckily I have been influenced by very motivated friends who keep driving me forward and improving myself; so here I would like to express my gratitude to Tunde, Dubai, Ademola and Adib; without them I would never be the same.  </p>
+        </div>
+      </div><!-- .col-md-7 close -->
+      <div class="col-md-5 col-sm-12">
+        <div class="block">
+          <img src="img/posing.jpg" alt="Img">
+        </div>
+      </div><!-- .col-md-5 close -->
+    </div>
+  </div>
+</section>
+
+<section id="feature">
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-6">
+      <h2>I BELIEVE IN BREAKING BOUNDARIES</h2>
+Breaking boundries is what drives human forward. When human once said 'How could we possibly fly? Or can we?' We set to prove the impossible, possible. I like to stay on top of everything
+    </div>
+  </div>
 </div>
- <ul class="post-list">
-     {% for post in paginator.posts %}
-       <li>
-         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-         <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-         <p>{{ post.description }}</p>
-         <br/>
-         <hr/>
-       </li>
-     {% endfor %}
- </ul>
+</section>
