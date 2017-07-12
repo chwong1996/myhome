@@ -4,10 +4,10 @@ title: Automatic curtain opener
 description: Good way to wake yourself up
 img: /img/portfolio/curtain 1.jpg
 ---
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/curtain 1.jpg" alt="" title="curtain opener"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/motor.jpg" alt="" title="curtain opener"/>
-	<img class="col one" src="{{ site.baseurl }}/img/portfolio/curtain 3.jpg" alt="" title="curtain opener"/>
+<div class="intro">
+	<img class="block img" src="{{ site.baseurl }}/img/portfolio/curtain 1.jpg" alt="" title="curtain opener"/>
+	<img class="block img" src="{{ site.baseurl }}/img/portfolio/motor.jpg" alt="" title="curtain opener"/>
+	<img class="block.img" src="{{ site.baseurl }}/img/portfolio/curtain 3.jpg" alt="" title="curtain opener"/>
 </div>
 
 Ever not able to wake up for 12pm lecture? Ever want to wake up to a good morning with music and sun?

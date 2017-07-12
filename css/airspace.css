@@ -13,6 +13,12 @@
 /*--
 	Common Css
 --*/
+/* portfolio tinkering */
+$img_spacing: 5px; 
+$img_height: 275px;
+$caption_font_size: 12px;
+$caption_color: #aaa;
+
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -151,7 +157,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .block img {
   padding-left: 40px;
-  width: 100%;
+  width: 33%;
 }
 #intro .section-title {
   margin-bottom: 0px;
@@ -534,6 +540,39 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .mix {
   display: none;
+}
+#portfolio-work .img_row{
+height: $img_height;
+width: 100%;
+overflow: hidden;
+box-sizing:border-box;
+padding: $img_spacing;
+}
+#portfolio-work .col{ 
+height: 100%;
+float: left;
+object-fit: cover;
+box-sizing:border-box;
+padding: $img_spacing;
+}
+#portfolio-work .right{
+float: right;
+}
+#portfolio-work .one {
+width:33.33%;
+}
+#portfolio-work .two {
+width: 66.66%;
+}
+.three{
+width: 100%;
+}
+.caption{
+height: 100%;
+color: $caption_color;
+text-align: center;
+vertical-align: middle;
+font-size: $caption_font_size;
 }
 /*--
 	wrapper-work Start
