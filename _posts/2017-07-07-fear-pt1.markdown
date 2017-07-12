@@ -3,8 +3,8 @@ layout: post
 title:  Fear (pt.1)
 date: 2017-07-07 00:14:00
 description: Fear will never kill you
+
 ---
-<p>
 There is a song called Fear from Cunninlynguists, and the song starts like this:
 
 “Fear is nothing more than a feeling
@@ -31,5 +31,5 @@ The plan was to do it on my 20th birthday, but we were too drunk on my birthday 
 
 After Dubai and I paid for the event, my brain began to imagine everything that could go wrong during skydiving. I was terrified, what if I lose an arm? Or a leg? I couldn’t go gym anymore, my biceps would look small and Puti would leave me. But then I started to think there wouldn’t be any injuries in skydiving, if anything happens in mid-air it is a certified death in under 2 minutes. So I stopped thinking about it.
 
-When we arrived at the airfield that was when fear started to strike me. It was all fun and games until I saw the plane I would be jumping out of: a bright purple propeller airplane. Well purple was a comforting colour, in the LGBT flag there was a bit of purple in it too. And then I started to think I could be attached to an instructor whose wife left him to sleep with a corner shop owner and he had a death wish, and we would soon become some minced meat in the middle of nowhere in the UK, and some Italian would come over and serve us as Bolognese. But it was too much to back off, I have made that GBP300 mistake and it was too much for me to flake it.</p>
+When we arrived at the airfield that was when fear started to strike me. It was all fun and games until I saw the plane I would be jumping out of: a bright purple propeller airplane. Well purple was a comforting colour, in the LGBT flag there was a bit of purple in it too. And then I started to think I could be attached to an instructor whose wife left him to sleep with a corner shop owner and he had a death wish, and we would soon become some minced meat in the middle of nowhere in the UK, and some Italian would come over and serve us as Bolognese. But it was too much to back off, I have made that GBP300 mistake and it was too much for me to flake it.
 <a href = "{{ site.baseurl }}/2017/07/08/fear-pt2.html" class="bold"> Continue to Part 2... </a>
