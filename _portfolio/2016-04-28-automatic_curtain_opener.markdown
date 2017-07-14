@@ -4,7 +4,7 @@ title: Automatic curtain opener
 description: Good way to wake yourself up
 img: /img/portfolio/curtain 1.jpg
 ---
-<div class="intro">
+<div class="post-area">
 	<img class="block img" src="{{ site.baseurl }}/img/portfolio/curtain 1.jpg" alt="" title="curtain opener"/>
 	<img class="block img" src="{{ site.baseurl }}/img/portfolio/motor.jpg" alt="" title="curtain opener"/>
 	<img class="block.img" src="{{ site.baseurl }}/img/portfolio/curtain 3.jpg" alt="" title="curtain opener"/>
