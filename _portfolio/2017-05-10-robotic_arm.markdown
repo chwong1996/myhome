@@ -13,6 +13,7 @@ A robotic arm. Ta-DA! Fully customizable! The best thing about the robotic arm, 
 <div class="intro">
 <img src="{{ site.baseurl }}/img/portfolio/Robotic arm.jpg" style="float:right;width:350px;height:350px;" alt="" title="Robotic arm">
 </div>
+<br>
 This robot runs on Arduino and takes my programming skills to the next level. I bought the robotic arm kit frame which does not even include the servo motors. However, this proved to be a more challenging design and gives me a better satisfaction!
 
 So after coding the Arduino, I have to learn how to connect everything through the breadboard. Dispite having experience in building the Automatic Curtain Opener, this proved to be 10x more complex as it involves a lot more components, and I am so not used to messy wires.
