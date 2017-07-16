@@ -13,12 +13,6 @@
 /*--
 	Common Css
 --*/
-/* portfolio tinkering */
-$img_spacing: 5px; 
-$img_height: 275px;
-$caption_font_size: 12px;
-$caption_color: #aaa;
-
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -157,7 +151,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .block img {
   padding-left: 40px;
-  width: 33%;
+  width: 100%;
 }
 #intro .section-title {
   margin-bottom: 0px;
@@ -237,7 +231,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/feature-bg.jpg");
+  background: url("../img/featue-bg.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -515,8 +509,8 @@ font header .navbar-default .navbar-nav li a:hover {
   position: absolute;
   top: 0;
   bottom: 0;
-  right: 0%;
-  left: 0%;
+  right: 0;
+  left: 0;
   background: rgba(0, 0, 0, 0.9);
   opacity: 0;
   -webkit-transition: .3s all;
@@ -527,8 +521,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant .position-center {
   position: absolute;
   top: 50%;
-  left: 0%;
-  right: 0%;   
+  left: 10%;
   -webkit-transform: translate(0%, 50%);
   -moz-transform: translate(0%, 50%);
   -ms-transform: translate(0%, 50%);
@@ -536,43 +529,9 @@ font header .navbar-default .navbar-nav li a:hover {
   -webkit-transition: .5s all;
   -o-transition: .5s all;
   transition: .5s all;
-  text-align: center;
 }
 #portfolio-work .block .mix {
   display: none;
-}
-#portfolio-work .img_row{
-height: $img_height;
-width: 100%;
-overflow: hidden;
-box-sizing:border-box;
-padding: $img_spacing;
-}
-#portfolio-work .col{ 
-height: 100%;
-float: left;
-object-fit: cover;
-box-sizing:border-box;
-padding: $img_spacing;
-}
-#portfolio-work .right{
-float: right;
-}
-#portfolio-work .one {
-width:33.33%;
-}
-#portfolio-work .two {
-width: 66.66%;
-}
-.three{
-width: 100%;
-}
-.caption{
-height: 100%;
-color: $caption_color;
-text-align: center;
-vertical-align: middle;
-font-size: $caption_font_size;
 }
 /*--
 	wrapper-work Start
