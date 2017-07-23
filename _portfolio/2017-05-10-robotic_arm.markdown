@@ -4,32 +4,25 @@ title: The Robotic Arm
 description: Or shall I call it Armduino?
 img: /img/portfolio/Robotic arm.jpg
 ---
+
 Technology is critical for innovation, and innovation is how people, or even the whole human mankind moves forward.  
 
 So after making the automatic curtain opener, what can I do to make something for myself?
 
 A robotic arm. Ta-DA! Fully customizable! The best thing about the robotic arm, with the Arduino is that I can make it do whatever I want, whenever I want! It is like having a dog, but who wants a dog when you can have a robotic arm?
-<br>
-<img src="{{ site.baseurl }}/img/portfolio/Robotic arm.jpg" title="Robotic arm">
-<br>
-This robot runs on Arduino and takes my programming skills to the next level. I bought the robotic arm kit frame which does not even include the servo motors. However, this proved to be a more challenging design and gives me a better satisfaction!
 
-So after coding the Arduino, I have to learn how to connect everything through the breadboard. Dispite having experience in building the Automatic Curtain Opener, this proved to be 10x more complex as it involves a lot more components, and I am so not used to messy wires.
-
-There has been success and failures, including short circuiting the board and ended up burning the entire setup and ended up buying more servos, but the moment when the circuit works and the servos are responding? IT WAS AMAZING!
-
-<iframe class="embed-responsive-item" width="400" height="315" src="https://www.youtube.com/embed/MU18B2-_OsE" frameborder="0" allowfullscreen=""></iframe>
+The robotic arm was bought in kits and was coded with the Arduino. 
+<iframe class="col-xs-12" width="500" height="315" src="https://www.youtube.com/embed/MU18B2-_OsE" frameborder="0" allowfullscreen=""></iframe>
 <br>
 	Showing the robotic claw doing its madness with Adib screaming with excitement behind
 <br>
 So after that, it is all just about wiring everything up together. It was an absolute mess
 <br>
 	<img src="{{ site.baseurl }}/img/portfolio/combinedarm.jpg" alt="" title="Robotic arm"/>
-<div class="col three caption">
-	Step-by-step constuction of the robotic arm
-</div>
+
+
 The control console is the main stuff, I spent literally 20 mins, including walking to the Design Studio in the University of Southampton, saw through the 6mm MDF board and drilled through the wood with a drill.
-	<img src="{{ site.baseurl }}/img/portfolio/mdf control.jpg" alt="" title="The control ">
+
 This entire thing is cut out from 6mm MDF cardboard and drilled some 10mm holes in it. The potentiometers thus stick out from the board and held in place. How much it costed me to do this? NUTTIN' MATE, not even a penny.
 
 So here it goes! My Robotic Arm!
