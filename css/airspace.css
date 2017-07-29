@@ -1065,3 +1065,52 @@ footer .footer-manu ul li a:hover {
   100% {
     -webkit-transform: translateX(0);
     transform: translateX(0); } }
+
+/* style.css */
+/*
+ * This css file includes styles added in the jekyll port of this theme.
+ * To find the original style.css that ships with Airspace, read airspace.css
+ *
+ */
+
+ .italic {
+   font-style: italic;
+ }
+
+ .bold {
+   font-weight: bold;
+ }
+
+ .center-text {
+   text-align: center;
+ }
+
+.post-area {
+  padding: 40px;
+  width: 95%;
+  min-height: 150px;
+  background-color: white;
+  border-bottom: 1px dotted #ddd;
+}
+
+.post-area a:link, .post-area a:visited {
+  font-size: 30px;
+  color: #333;
+}
+
+.post-area a:hover {
+  color: #0D0017;
+}
+
+.img_container{
+    font-style: italic;
+}
+
+/* grid for posts */
+.gridimg {
+    width: 150px;
+    height: auto;
+    display: inline-block;
+    margin: 5px;
+    border: 5px;
+}

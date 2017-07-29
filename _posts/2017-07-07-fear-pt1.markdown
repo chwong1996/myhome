@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_img
 title:  Fear (pt.1)
 date: 2017-07-07 00:14:00
 description: Fear will never kill you

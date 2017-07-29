@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_img
 title:  Fear (pt.2)
 date: 2017-07-08 00:14:00
 description: God puts the best thing in life on the other side of fear
