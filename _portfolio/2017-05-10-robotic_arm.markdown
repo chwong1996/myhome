@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: portfolio
 title: The Robotic Arm
 description: Or shall I call it Armduino?
-img: /img/portfolio/Robotic arm.jpg
 ---
 
 Technology is critical for innovation, and innovation is how people, or even the whole human mankind moves forward.  

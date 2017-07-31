@@ -13,17 +13,18 @@ layout: page
               <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
             </div>
             <hr />
-                      <div class="col-md-7">
+            <div class="col-md-7">
             <p>{{ content }}</p>
           </div>
         </div>
           <div class="col-md-5">
-              <p class="italic">Gallery</p>
-              <img class="gridimg" src="{{ post.img}}">
+              <p class="italic">{{ page.column_des }}</p>
+              {% for image in page.img %}
+              <img class="gridimg" src="{{ page.img[forloop.index0] }}">
+              {% endfor %}
                 </div>
           </div><!-- .col-md-7 close -->
       </div>
-    </div>
   </section>
 </div>
 <p class="center-text" style="padding: 30px;">
