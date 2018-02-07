@@ -114,7 +114,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  background: linear-gradient(to left, #8b86a3, #bfbfbf);
   opacity: 0.8;
 }
 #slider .block {
@@ -520,9 +520,9 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 #portfolio-work .block .portfolio-contant .position-center {
-  position: relative;
+  position: absolute;
   top: 50%;
-  text-align: center;
+  left: 10%;
   -webkit-transform: translate(0%, 50%);
   -moz-transform: translate(0%, 50%);
   -ms-transform: translate(0%, 50%);
@@ -551,7 +551,7 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 100%;
 }
 #wrapper-work ul li .items-text {
-  position: absolute;
+  position: absolut0e;
   top: 0;
   bottom: 0;
   left: 0;
