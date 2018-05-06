@@ -4,7 +4,6 @@ title:  People just do nothing
 date: 2018-05-06 15:49:00
 description: Our inherited laziness and burning your house down tomorrow.
 ---
-People just do nothing
 It’s Easter holiday and since almost all my friends in Cardiff have gone back home, I decided to take a train to Southampton to visit my best friends after a long two months of not seeing them.
 
 Well perhaps in your mind you’d be like “oh wow good on you son! Going away from the sheep county and explore Southampton like a tourist yeah?” Truth to be told I’ve been spending all my time in the Hartley Library in Southampton uni. Titanic museum? Nah aint no body got time for that when your Case Study is due in 3 days and you have to crank out 30 pages. But best friends being best friends, we always made time to chill in the living room, including Tunde, who was incredibly sick so he wrapped himself with 3 duvets and bedsheet covers so we could sit in the living room and chat about why Usain Bolt’s ability to run was purely genetics. 
