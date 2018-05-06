@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Salute to Changes
+title:  People just do nothing
 date: 2018-05-06 15:49:00
 description: Our inherited laziness and burning your house down tomorrow.
 ---
