@@ -16,9 +16,7 @@ To be frankly honest, we are only born to survive; and if all you aim for is to 
 
 To put it this way, everything in this world obeys physics, including the law of inertia. If we are used to waking up at 2pm unless there’s something important waking up at 5am will only boost your productivity for so long before you fall back to your own pattern. 
 
-Rules are meant to be challenged, habits are meant to be changed; when you do make a change, you gain and you lose something, sometimes significant, sometimes not; but it shall never mean they should never be challenged, and because of the change, you know more about yourself, you experience more, and you start to compare 
-
-None of the currently understood and well-verified theories of physics can be successfully applied to describe black hole singularities, that is the infinitely tiny and infinitely dense points located in the centre of a black hole, behind its event horizon, and that’s where physicist, knows the limit of the current laws of physics, and are trying to find a breakthrough in which spacetime 
+Rules are meant to be challenged, habits are meant to be changed; when you do make a change, you gain and you lose something, sometimes significant, sometimes not; but it shall never mean they should never be challenged, and because of the change, you know more about yourself, you experience more, and you start to compare.
 
 Oli is my gym partner in Cardiff, and while we have exactly the same upper body strength, he dreams of getting Captain America’s physique, including his habit of skipping leg day. And he totally lived by it; every time whenever I asked him to do squats with me he was like “oh I’m not ready for leg day bro”. And there is a day when he decided to “screw this, I’m joining you for a full leg day”. 
 
