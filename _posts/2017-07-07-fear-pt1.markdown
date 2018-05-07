@@ -7,7 +7,7 @@ column_des: My journey to hell
 img: 
     - /img/blogs/skydive3.jpg
     - /img/blogs/skydive2.jpg
-    - /img/blogs/skydive1.jpg
+    - /img/blogs/skydive1.JPG
 ---
 There is a song called Fear from Cunninlynguists, and the song starts like this:
 
