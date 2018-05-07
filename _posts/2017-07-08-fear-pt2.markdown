@@ -6,8 +6,8 @@ description: God puts the best thing in life on the other side of fear
 column_des: My journey to hell
 img: 
     - /img/blogs/skydive6.jpg
-    - /img/blogs/skydive5.jpg
-    - /img/blogs/skydive4.jpg
+    - /img/blogs/skydive5.JPG
+    - /img/blogs/skydive4.JPG
 ---
 “And when I’m gone, just carry on, don’t mourn
 
