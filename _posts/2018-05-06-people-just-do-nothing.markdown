@@ -16,7 +16,7 @@ To be frankly honest, we are only born to survive; and if all you aim for is to 
 
 To put it this way, everything in this world obeys physics, including the law of inertia. If we are used to waking up at 2pm unless there’s something important waking up at 5am will only boost your productivity for so long before you fall back to your own pattern. 
 
-Rules are meant to be challenged, habits are meant to be changed; when you do make a change, you gain and you lose something, sometimes significant, sometimes not; but it shall never mean they should never be challenged, and because of the change, you know more about yourself, you experience more, and you start to compare.
+Rules are meant to be challenged, habits are meant to be changed; when you do make a change, you gain and you lose something, sometimes significant, sometimes not; but it shall never mean they should never be challenged, and because of the change, you know more about yourself, you experience more, and you start to compare. 
 
 Oli is my gym partner in Cardiff, and while we have exactly the same upper body strength, he dreams of getting Captain America’s physique, including his habit of skipping leg day. And he totally lived by it; every time whenever I asked him to do squats with me he was like “oh I’m not ready for leg day bro”. And there is a day when he decided to “screw this, I’m joining you for a full leg day”. 
 
@@ -24,4 +24,4 @@ You will never be ready. The future is promised to no one. We will never be read
 
 Fun fact: remember the previous blog about me skydiving? When you are sitting at the ledge of the plane and staring down at 13000ft of death there is no way to get ready, you just have to take a deep breathe, say “Jesus take the wheel!”, do a flip of faith and tumble your way down to hell. 
 
-I am getting off-topic here, but one last thing: after going to Cardiff University for my master’s degree, a brief visit back to Southampton I realised I had been taking this one thing for granted: the time when we were in the living room in the evening, either talking smack or playing Mario Kart.  
+I am getting off-topic here, but one last thing: after going to Cardiff University for my master’s degree, a brief visit back to Southampton I realised I had been taking this one thing for granted: the time when we were in the living room in the evening, either talking smack or playing Mario Kart. Had I stayed in Southampton for my masters I would totally miss this very insignificant, yet significant detail to my daily life.
