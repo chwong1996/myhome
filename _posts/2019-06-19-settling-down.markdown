@@ -7,7 +7,7 @@ description: Learning from the milestones
 
 There are a couple milestones in life, and it’s those milestones that make life a lot more interesting.
 
-It is 2019, I had about 3 months of proper adult life working experience, I was involved in a few bridges foundation design and I was immensely proud of it; when I did a presentation on the parameters I used for design and both my line manager and the senior engineer gave me little nods as I went along, not even Nigel Farage could understand that sense of achievement after the Brexit vote.
+It is 2019, I had about 3 months of proper adult life working experience, I was involved in a few bridges foundation design and I was immensely proud of it; when I did a presentation on the parameters I used for design and both my line manager and the senior engineer gave me little nods as I went along, I felt like Nigel Farage after the Brexit referendum. 
 
 While the satisfaction in the job is kicking in nicely, I’m gradually getting used to waking up at 8 in the morning, going to the gym during lunchtime with my colleagues and work until 6/7pm, go home, make my dinner and watch Netflix until passing out in bed and wake up to Ted Bundy confessing his murders on screen. 
 
