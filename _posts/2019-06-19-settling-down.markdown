@@ -17,7 +17,7 @@ What he said is true, time flies and it is a train that is not stopping until I�
 
 At my first couple months living near Canary Wharf, my life had been pretty mundane. It was a hard pill to swallow when I used to have the whole day to elongate whatever stuff I had to do in university, now I had to give 8 hours of my life to work, another 8 hours, if available, to sleep; and then there would be my 8 hours of home time, when I would be making dinner, chilling with my housemates and looking out to the sea. 
 
-Also when you are in university, you were working to be a tax-paying adult (doesn’t count if your life aspiration was Sir Richard Branson) in your industry, to be a doctor, accountant, teacher, engineer, business manager etc; but once you are in the industry, your next big stage would be retirement, living in a house outside London, have a lovely wife, 3 kids, a Range Rover and a Ford Galaxy people carrier on your driveway, and you occasionally go to the countryside wearing your farmers hat walking your dog smoking your pipe in your Range Rover. Exciting? Most likely, but that will be the final straight, that would mean retirement, then you would be too old to move. 
+Also when you are in university, you were working to be a tax-paying adult (doesn’t count if your life aspiration was Sir Richard Branson) in your industry, to be a doctor, accountant, teacher, engineer, business manager etc; but once you are in the industry, your next big stage would be retirement, living in a house outside London, have a lovely wife, 3 kids, a Range Rover and a Ford Galaxy people carrier on your driveway, and you occasionally go to the countryside wearing your farmers hat walking your dog smoking your pipe in your Range Rover. Exciting? Most likely, but that will be the final straight, that would mean retirement, soon you would be too old to move. 
 
 But is it necessarily the case? 
 
@@ -25,14 +25,14 @@ I would like to stress one thing before I continue – I love throwing theories 
 
 A couple days ago my landlord Jay proposed to have a drink with the house, as mid-week drinking became our favourite past-time hobby we decided to go to the nearest Weatherspoon for a pint. 
 
-Don’t be daft, no one ever goes to Spoons for a pint. You started off with one, then you started doing rounds with everyone, then before we realised Punk IPA was doing all the talking for us. But then Jay presented something he’s learnt from this book: Ikigai - The Japanese Secret to a Long and Happy Life, by Hector Garcia and Francesc Miralles, and that book came with a Venn diagram:
+Don’t be daft, no one ever goes to Spoons for a pint. You started off with one, almost immediately you started doing rounds with everyone, within the next 47 seconds before we realised Punk IPA was doing all the talking for us. But then Jay presented something he’s learnt from this book: Ikigai - The Japanese Secret to a Long and Happy Life, by Hector Garcia and Francesc Miralles, and that book came with a Venn diagram:
 <img src="{{ site.baseurl }}/img/blogs/ikigai.jpg" alt="">
  
 Ikigai is a Japanese concept that means “a reason for being”; and having a clearly defined ikigai brings satisfaction, happiness and meaning to life, ikigai is the reason we get up in the morning. 
 
 Back to Jay. He used to work as a strategic planner in the oil and gas industry, with that he while he did not really enjoy what he was working for, he was bloody good at it, and he obviously got a fat paycheque to compensate for whatever he did not enjoy, it was with that job he bought a house at a young age, then he got a couple more houses to his name, and became a man of what he is right now. Then he got laid off, had a holiday and started working for a charity as a strategy planner, for a fraction of his previous salary. 
 
-He was well-off, very middle-classed; but feeling pretty guilty, a point made obvious when he was mentioning his past he was very regretful of what he’s done. And he said:
+He was well-off, very middle-classed, very "living in a semi-detached house in Kent with 3 kids a hot wife and a dog, with a Range Rover and Ford Galaxy parked in the front porch" type of guy; but feeling pretty guilty, a point made obvious when he was mentioning his past he was very regretful of what he’s done. And he said:
 
 “If I had followed Ikigai’s diagram, I wouldn’t be your landlord, but I would be a lot happier”.
 
@@ -40,7 +40,7 @@ But then again, it was his life that he had chosen; his past built his present; 
 
 Is he a terrible person? Don’t care. Did he redeem himself from what he had done from the charity? Not interested. Who am I to judge what he was doing? Everyone has their own course in life, why should I concern myself with whatever the others had done? 
 
-Yet however, my parents have taught me Confucius thought this since I was young:  修身，齊家，治國，平天下, which translates to “improve upon yourself first, then manage your family, then govern your state, then you can rule the world”. 
+My parents have taught me Confucius thought this since I was young:  修身，齊家，治國，平天下, which translates to “improve upon yourself first, then manage your family, then govern your state, then you can rule the world”. 
 
 For me to improve myself, I have to understand myself, I need to know what I’m lacking, I need to what makes others better than me; more importantly, I need to respect my competition and learn from every little episodes of my life. 
 
