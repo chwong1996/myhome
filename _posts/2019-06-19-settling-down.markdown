@@ -2,7 +2,7 @@
 layout: post
 title: Settling Down
 date: 2019-06-19 22:55:04
-description: milestones in life.
+description: Learning from the milestones
 ---
 
 There are a couple milestones in life, and it’s those milestones that make life a lot more interesting.
