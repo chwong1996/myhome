@@ -13,7 +13,7 @@ While the satisfaction in the job is kicking in nicely, I’m gradually getting 
 
 It was all fun and joy until I was in the pantry having a conversation with Jon P, talking about how much I have changed from university until now. “Wait until you’ve hit the year milestone my friend”.
 
-What he said is true, time flies and it is a train that is not stopping until I’m 60 years old with 3 kids and a dog, living in a semi-detached house outside London, and it isn’t like this train is stopping because “apologies there has been signal failure with the train in front we will resume the service shortly” only for you to wait for an eternity and got you to work 3 years 46 days 9 hours and 15 minutes late. This is not the DLR, time doesn’t have signal failures.
+What he said is true, time flies and it is a train that is not stopping until I’m 60 years old with 3 kids and a dog, living in a semi-detached house outside London, and it isn’t like this train is stopping because “apologies ladies and gentlemen there has been signal failure with the train in front we will resume the service shortly” only for that shortly to be for 3 years 9 months and 45 minutes and make you late at work. This is not the DLR, time doesn’t have signal failures.
 
 At my first couple months living near Canary Wharf, my life had been pretty mundane. It was a hard pill to swallow when I used to have the whole day to elongate whatever stuff I had to do in university, now I had to give 8 hours of my life to work, another 8 hours, if available, to sleep; and then there would be my 8 hours of home time, when I would be making dinner, chilling with my housemates and looking out to the sea. 
 
@@ -21,7 +21,7 @@ Also when you are in university, you were working to be a tax-paying adult (does
 
 But is it necessarily the case? 
 
-I would like to stress one thing before I continue – I love throwing theories of life secrets around,  but it isn’t like I’ve figured life and got everything sorted (heck I couldn’t even make a proper meal without getting a girl sick); but it’s more coming from the older adults (cock I’m getting old) that had a bit too much wine and whiskey, and instead of asking them to sleep with me and rob their wallet in the morning like Cardi B I usually ask them for life advice and how they become of such; and what’s more to talk than one’s life journey?
+I would like to stress one thing before I continue – I love throwing theories of life secrets around,  but it isn’t like I’ve figured life and got everything sorted (heck I couldn’t even make a proper meal for a date without getting her sick); but it’s more coming from the older adults (cock I’m getting old) that had a bit too much wine and whiskey, and instead of asking them to sleep with me and rob their wallet in the morning like Cardi B I usually ask them for life advice and how they become of such; and what’s more to talk than one’s life journey?
 
 A couple days ago my landlord Jay proposed to have a drink with the house, as mid-week drinking became our favourite past-time hobby we decided to go to the nearest Weatherspoon for a pint. 
 
