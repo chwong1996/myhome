@@ -25,7 +25,7 @@ I would like to stress one thing before I continue – I love throwing theories 
 
 A couple days ago my landlord Jay proposed to have a drink with the house, as mid-week drinking became our favourite past-time hobby we decided to go to the nearest Weatherspoon for a pint. 
 
-Don’t be daft, no one ever goes to Spoons for a pint. You started off with one, almost immediately you started doing rounds with everyone, within the next 47 seconds before we realised Punk IPA was doing all the talking for us. But then Jay presented something he’s learnt from this book: Ikigai - The Japanese Secret to a Long and Happy Life, by Hector Garcia and Francesc Miralles, and that book came with a Venn diagram:
+Don’t be daft, no one ever goes to Spoons for a pint. You started off with one, almost immediately you started doing rounds with everyone, within the next 47 seconds Punk IPA was doing all the talking for us. But then Jay presented something he’s learnt from this book: Ikigai - The Japanese Secret to a Long and Happy Life, by Hector Garcia and Francesc Miralles, and that book came with a Venn diagram:
 <img src="{{ site.baseurl }}/img/blogs/ikigai.jpg" alt="">
  
 Ikigai is a Japanese concept that means “a reason for being”; and having a clearly defined ikigai brings satisfaction, happiness and meaning to life, ikigai is the reason we get up in the morning. 
