@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cruising down life
+title:  Cruising Down Life
 date: 2021-06-28 01:41:21
 description: Blasting down the motorway at 155mph is fun, but you’ve just missed the sun setting to horizon to your right.
 ---
